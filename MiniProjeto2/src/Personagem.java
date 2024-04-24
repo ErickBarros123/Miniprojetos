@@ -2,7 +2,7 @@
 import java.util.Random;
 public class Personagem {
 
-     
+    
     public int ataque;
     public int elixir;
     public int vida;
